@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../SampleTries" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-hibernate-mysql" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpringAll" />
+  </component>
+  <component name="IdProvider" IDEtalkID="0251BA27B1F32DD44A3EE1402B767C15" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../MRTry/pom.xml" />
+        <option value="$PROJECT_DIR$/../SampleTries/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringAll/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-hibernate-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/../RazorSight/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../spring-hibernate-mysql/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

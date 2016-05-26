@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Beginers/Beginers.iml" filepath="$PROJECT_DIR$/../Beginers/Beginers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MRTry/MRTry.iml" filepath="$PROJECT_DIR$/../MRTry/MRTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTry.iml" filepath="$PROJECT_DIR$/MyTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Razorsight/Razorsight.iml" filepath="$PROJECT_DIR$/../Razorsight/Razorsight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SampleTries/SampleTries.iml" filepath="$PROJECT_DIR$/../SampleTries/SampleTries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringAll/SpringAll.iml" filepath="$PROJECT_DIR$/../SpringAll/SpringAll.iml" />
+    </modules>
+  </component>
+</project>
+

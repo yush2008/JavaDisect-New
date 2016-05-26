@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringAll:war">
+    <output-path>$PROJECT_DIR$/../SpringAll/target</output-path>
+    <root id="archive" name="CounterWebApp.war">
+      <element id="artifact" artifact-name="SpringAll:war exploded" />
+    </root>
+  </artifact>
+</component>

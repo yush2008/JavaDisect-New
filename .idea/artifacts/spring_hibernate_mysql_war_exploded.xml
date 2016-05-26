@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-hibernate-mysql:war exploded">
+    <output-path>$PROJECT_DIR$/../spring-hibernate-mysql/target/spring-hibernate-mysql</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring-hibernate-mysql/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-hibernate-mysql" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
